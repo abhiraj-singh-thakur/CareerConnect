@@ -52,7 +52,7 @@ demonstrates modern distributed systems architecture and cloud-native developmen
 
 ## System Architecture
 
-![Architecture Diagram](images/Linked_In_Microservices_Design.png)
+![Architecture Diagram](images/System_Design.png)
 
 ### Microservices
 
